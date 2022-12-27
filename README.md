@@ -1,5 +1,6 @@
 # materias_app
-![image](https://user-images.githubusercontent.com/71204931/209712100-1b001a45-1f7f-4aaf-bdce-158ad844ebbf.png)
-![image](https://user-images.githubusercontent.com/71204931/209712110-9f3abf44-d499-4684-91b8-b40a3a2c0a73.png)
-![image](https://user-images.githubusercontent.com/71204931/209712120-9363f46d-9aab-4689-9073-41ec1ad3c0b9.png)
-![image](https://user-images.githubusercontent.com/71204931/209712126-766a7b77-b982-4a45-a0c8-ab39f449ebfb.png)
+![image](https://user-images.githubusercontent.com/71204931/209712404-1f18e0db-6938-41fb-b2f8-452d7f750cf7.png)
+![image](https://user-images.githubusercontent.com/71204931/209712413-278c94bf-2819-41f1-ab6c-8da9040a937c.png)
+![image](https://user-images.githubusercontent.com/71204931/209712422-03f6ce98-6bfe-4d4e-bd67-16c10d345888.png)
+![image](https://user-images.githubusercontent.com/71204931/209712426-e18ee200-c895-42b2-89f3-e17620aa9bec.png)
+
